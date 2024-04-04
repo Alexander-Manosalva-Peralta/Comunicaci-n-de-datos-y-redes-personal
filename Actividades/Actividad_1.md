@@ -1,2 +1,1 @@
-# Este markdown es para la Actividad número 1.
-
+# Actividad 1: Creación de una red simple.
