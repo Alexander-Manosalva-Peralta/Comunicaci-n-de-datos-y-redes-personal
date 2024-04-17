@@ -17,7 +17,7 @@
    - Configuré un aviso de MOTD.
    - Guardé la configuración en la NVRAM.
 
-   <img src="URL_de_la_imagen_S1.png" alt="Imagen de S1" style="width:300px;height:200px;">
+   <img src="https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/S1%20act%202.png" alt="Imagen de S1" style="width:300px;height:200px;">
 
 2. **Configuración básica en S2:**
    - Repetí los pasos anteriores para S2.
