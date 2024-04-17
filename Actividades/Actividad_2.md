@@ -53,5 +53,5 @@
 - Verifiqué la conectividad de la red mediante pruebas de ping desde las PC hacia los switches y viceversa.
 - Todos los pings fueron exitosos, lo que indica que la configuración y la conectividad básica fueron exitosas.
 
-   <img src="URL_de_la_imagen_resultado_ping.png" alt="Imagen de resultados de ping" style="width:300px;height:200px;">
+   <img src="https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/S1%20act%202.png" alt="Imagen de resultados de ping" style="width:300px;height:200px;">
 
