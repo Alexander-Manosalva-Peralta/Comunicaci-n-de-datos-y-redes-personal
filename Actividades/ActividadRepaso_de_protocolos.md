@@ -39,5 +39,4 @@ Las técnicas utilizadas en las comunicaciones de red comparten estos fundamento
 
 3. **Comparte las reglas de protocolo con tus compañeros de equipo. ¿Hay diferencias entre tus protocolos y los de ellos? Si es así, ¿podrían estas diferencias producir malentendidos de los mensajes?**
 
-   - *Respuesta:* Al compartir las reglas de protocolo con mis compañeros de equipo, notamos algunas diferencias en la forma en que manejamos ciertos aspectos de la comunicación de texto. Por ejemplo, algunos de nosotros preferimos usar más emojis y abreviaturas, mientras que otros son más formales y prefieren un lenguaje más completo. Estas diferencias podrían potencialmente llevar a malentendidos si no se tienen en cuenta al comunicarse, especialmente si las expectativas sobre el tono y el estilo de la conversación no están alineadas entre los participantes.
-
+   - *Respuesta:* 
