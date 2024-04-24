@@ -20,11 +20,9 @@ Un script de shell es un archivo que contiene texto ASCII. Para crear un script 
 
  Iniciemos nuestro editor de texto y escribamos nuestro primer script de la siguiente manera:
 
-```bash
 #!/bin/bash
 # Mi primer script repite "¡Hola mundo!"
 echo "¡Hola mundo!"
-```bash
 
 ## Escribir nuestro primer guión y hacerlo funcionar
 
