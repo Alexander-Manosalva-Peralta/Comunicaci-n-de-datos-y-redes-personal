@@ -18,12 +18,13 @@ Un script de shell es un archivo que contiene texto ASCII. Para crear un script 
 | gedit | El editor suministrado con el entorno de escritorio GNOME. | Gráfico |
 | kwrite | El "editor avanzado" suministrado con KDE. | Gráfico |
 
-Iniciemos nuestro editor de texto y escribamos nuestro primer script de la siguiente manera:
+ Iniciemos nuestro editor de texto y escribamos nuestro primer script de la siguiente manera:
 
 ```bash
 #!/bin/bash
 # Mi primer script repite "¡Hola mundo!"
 echo "¡Hola mundo!"
+```bash
 
 ## Escribir nuestro primer guión y hacerlo funcionar
 
@@ -37,20 +38,21 @@ EOF
 
 ## Comando para editar el script sysinfo_page
 
-[![Texto alternativo](URL_de_la_imagen)](URL_del_enlace)
+![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/1.png)
 
 ## Mostrar el nombre de host del sistema
 
-[![Texto alternativo](URL_de_la_imagen)](URL_del_enlace)
+![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/2.png)
 
 ## Obtener la marca de tiempo actual
 
-[![Texto alternativo](URL_de_la_imagen)](URL_del_enlace)
+![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/3.png)
 
 ## Comando para editar el script sysinfo_page con funciones
 
-[![Texto alternativo](URL_de_la_imagen)](URL_del_enlace)
+![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/4.png)
 
 ## Verificar el contenido del script sysinfo_page con funciones
 
-[![Texto alternativo](URL_de_la_imagen)](URL_del_enlace)
+![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/5.png)
+
