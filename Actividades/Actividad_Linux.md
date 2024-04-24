@@ -32,25 +32,22 @@ cat <<'EOF' > hello_world.sh
 echo "¡Hola mundo!"
 EOF
 
-[![Texto alternativo](URL_de_la_imagen)](URL_del_enlace)
+![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/1.png)
 
 ## Comando para editar el script sysinfo_page
 
-![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/1.png)
+![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/2.png)
 
 ## Mostrar el nombre de host del sistema
 
-![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/2.png)
+![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/3.png)
 
 ## Obtener la marca de tiempo actual
 
-![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/3.png)
+![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/4.png)
 
 ## Comando para editar el script sysinfo_page con funciones
 
-![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/4.png)
-
-## Verificar el contenido del script sysinfo_page con funciones
-
 ![Texto alternativo](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/5.png)
+
 
