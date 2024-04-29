@@ -13,7 +13,7 @@ Una empresa necesita diseñar una red segura que conecte tres sucursales ubicada
    Para asegurar una comunicación cifrada de extremo a extremo, utilizaríamos el protocolo IPsec (Internet Protocol Security). IPsec proporciona autenticación, integridad de datos y confidencialidad mediante la encapsulación de paquetes IP en un túnel seguro. Utilizaría claves precompartidas para la autenticación y el cifrado, junto con el algoritmo AES (Advanced Encryption Standard) para garantizar una alta seguridad.
 
 3. Dibuja una topología de red que incluya dispositivos como routers, switches, y firewalls. Explica la función de cada dispositivo en tu diseño. Puedes utilizar PacketTracer  
-   ![Topología de red](URL_de_la_imagen)
+   ![Topología de red](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/Actividad11.jpg)
 
 4. ¿Cómo garantizarías la integridad y autenticidad de los datos transmitidos entre las sucursales? Detalla el uso de checksums o CRC.  
    Para garantizar la integridad y autenticidad de los datos transmitidos entre las sucursales, implementaría checksums o CRC (Cyclic Redundancy Check) en cada router. Estos mecanismos de verificación de integridad permiten detectar cualquier alteración en los datos durante la transmisión y aseguran que los datos recibidos sean los mismos que los enviados.
@@ -23,7 +23,7 @@ Una empresa necesita diseñar una red segura que conecte tres sucursales ubicada
 ### Preguntas
 
 1. Dibuja una topología de red para este escenario que incluya los dispositivos de red necesarios en cada sucursal.  
-   ![Topología de red](URL_de_la_imagen)
+   ![Topología de red](https://github.com/Alexander-Manosalva-Peralta/Comunicacion-de-datos-y-redes-personal/blob/main/Imagenes/Actividad11.jpg)
 
 2. Explica cómo cada dispositivo contribuye a la seguridad y eficiencia de la red.  
    - **Router**: Actúa como el punto de conexión a la red WAN/MPLS, gestionando el tráfico entrante y saliente hacia y desde otras sucursales. Su función principal es enrutar los paquetes de datos entre las redes LAN de las sucursales y la red WAN, proporcionando conectividad segura y eficiente.
@@ -84,3 +84,8 @@ configure_ipsec_vpn(client, '192.168.2.1', '192.168.1.0 255.255.255.0', '192.168
 2. **Proporciona un esquema para implementar un sistema robusto de logs y monitoreo de la red utilizando herramientas modernas de gestión de red. ¿Cómo podría Python automatizar la recopilación y análisis de logs?**
    Para implementar un sistema de logs y monitoreo de la red, utilizaría herramientas como ELK Stack (Elasticsearch, Logstash, Kibana) o Splunk. Estas herramientas permiten recopilar, almacenar, visualizar y analizar logs de manera eficiente. Python podría automatizar la recopilación y análisis de logs mediante el uso de bibliotecas como `elasticsearch`, `logstash`, `kibana`, `splunk-sdk`, entre otras, para interactuar con estas herramientas y realizar tareas específicas de monitoreo y análisis de logs de forma programática.
 
+## Integrantes:
+
+- Huanca Hampuero Lila Zaray 
+- Gavino Isidro Michael Richard
+- Manosalva Peralta Yojan Alexander
