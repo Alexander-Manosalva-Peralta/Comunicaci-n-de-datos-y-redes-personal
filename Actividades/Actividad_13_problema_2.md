@@ -156,3 +156,11 @@ if __name__ == '__main__':
 ## Paso 3: Evaluación del protocolo
 
 Después de implementar el protocolo, usaríamos herramientas como Wireshark para monitorear la eficacia del control de flujo y el manejo de errores durante la transferencia de archivos. Esto podría involucrar la simulación de condiciones de red adversas, como alta latencia y pérdida de paquetes, para ver cómo el protocolo se comporta y se recupera de estos problemas.
+
+##Integrantes
+
+- Huanca Hampuero Lila Zaray
+
+- Gavino Isidro Michael Richard
+
+- Manosalva Peralta Yojan Alexander
