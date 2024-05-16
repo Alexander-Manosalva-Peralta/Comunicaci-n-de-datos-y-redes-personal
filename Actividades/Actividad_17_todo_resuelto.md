@@ -36,3 +36,54 @@ def cliente(mensaje):
     print(f"Servidor dice: {respuesta}")
 ```
 
+*Paso 3: Simulación de la comunicación Para simular la comunicación, simplemente llamaremos a la función cliente con diferentes mensajes:*
+
+```
+def main():
+    cliente("eco: Hola Mundo")
+    cliente("reverso: Hola Mundo")
+    cliente("sumar: 123+ 456") #Este debería dar un error ya que no está implementado
+
+if __name__ == "main"
+```
+### Ejercicios para extender la simulación: Desarrollado por mí
+
+- Agregar más comandos: Implementa más funcionalidades en el servidor, como sumar números o convertir el mensaje a mayúsculas.
+
+*Sumar números*
+
+```
+def servidor(mensaje):
+    """Procesa los mensajes enviados por el cliente según el comando especificado."""
+    mensaje = mensaje.upper()  # Convertir el mensaje a mayúsculas
+    comando, _, contenido = mensaje.partition(':')
+    if comando.strip() == 'ECO':
+        return contenido.strip()
+    elif comando.strip() == 'REVERSO':
+        return contenido.strip()[::-1]
+    elif comando.strip() == 'SUMA':
+        numeros = contenido.split('+')  # Dividir los números separados por '+'
+        try:
+            numeros = [int(num.strip()) for num in numeros]  # Convertir a números enteros
+            suma = sum(numeros)  # Calcular la suma
+            return str(suma)  # Devolver la suma como una cadena
+        except ValueError:
+            return "Error: Los valores proporcionados para la suma no son válidos."
+    else:
+        return "Comando no reconocido."
+```
+*Convertir a mayúsculas*
+
+```
+def servidor(mensaje):
+    """Suma números y convierte a mayusculas"
+    mensaje = mensaje.upper()
+    comando, -, contenido= mensaje.partition(':')
+    if comando.strip().lower() == 'eco':
+        return contenido.strip()
+    elif comando.strip().lower() == 'reverso':
+        return contenido.strip()[::-1]
+    else:
+        return "Comando no reconocido."
+```
+
