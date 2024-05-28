@@ -4,27 +4,6 @@
 
 En este laboratorio, crearás una instancia de Amazon Elastic Compute Cloud (Amazon EC2) que aloja un sitio web sencillo.
 
-### Duración
-
-El tiempo estimado para completar este laboratorio es de 30 minutos.
-
-### Acceso a la Consola de Administración de AWS
-
-Para comenzar la sesión de laboratorio, selecciona **Start Lab (Iniciar laboratorio)** en la esquina superior derecha de la página.
-
-1. Comienza la sesión del laboratorio.
-2. En la esquina superior derecha de esta página aparece un temporizador que muestra el tiempo que queda de la sesión.
-
-**Sugerencia:** Para actualizar la duración de la sesión en cualquier momento, vuelve a seleccionar **Start Lab (Iniciar laboratorio)** antes de que el temporizador llegue a 0:00.
-
-Antes de continuar, espera hasta que el entorno de laboratorio esté listo. El entorno está listo cuando aparecen los detalles del laboratorio en el lado derecho de la página y el icono del círculo junto al enlace de AWS en la esquina superior izquierda pasa a ser verde.
-
-Para volver a estas instrucciones, selecciona el enlace **Readme (Léeme)** en la esquina superior derecha.
-
-Para conectarte a la consola de administración de AWS, selecciona el enlace de AWS en la esquina superior izquierda, encima de la ventana del terminal. Se abrirá una nueva pestaña del navegador que te conecta a la consola de administración de AWS.
-
-**Sugerencia:** Si no se abre una pestaña nueva del navegador, generalmente aparece un banner o un icono en la parte superior de este, el cual indica que el navegador no permite que se abran ventanas emergentes en el sitio. Elige el banner o el icono y, a continuación, selecciona **Permitir elementos emergentes**.
-
 ## Tarea 1. Comenzar a Crear la Instancia y Asignarle un Nombre
 
 Selecciona el menú **Servicios**, localiza los servicios de Computación y selecciona **EC2**.
@@ -75,10 +54,6 @@ Configura un nuevo grupo de seguridad:
 - **Nombre del grupo de seguridad:** borra el texto e introduce **Web Server**
 - **Descripción:** borra el texto e introduce **Security group for my web server**
 - Selecciona **Eliminar** para eliminar la regla de entrada SSH predeterminada.
-
-**Nota:** Vas a configurar una regla de entrada diferente más adelante en este laboratorio.
-
-Un grupo de seguridad actúa como un firewall virtual que controla el tráfico de una o varias instancias. Cuando inicias una instancia, la asocias a uno o varios grupos de seguridad. Añades reglas a cada grupo de seguridad que permiten que el tráfico fluya a sus instancias asociadas o desde ellas. Las reglas de un grupo de seguridad se pueden modificar en cualquier momento. Las nuevas reglas se aplican automáticamente a todas las instancias que estén asociadas al grupo de seguridad.
 
 ## Tarea 6. Configurar el Almacenamiento
 
@@ -171,7 +146,3 @@ Debería mostrar la página del servidor web con el mensaje **Hello World!**
 
 ¡Enhorabuena! Has completado el laboratorio.
 
-1. Cierra la sesión de la consola de administración de AWS.
-    - En la esquina superior derecha de la página, elige tu nombre de usuario. Tu nombre de usuario comienza por **voclabs/user**.
-    - Selecciona **Cerrar sesión**.
-2. Selecciona **Finalizar laboratorio** en la parte superior de esta página y, a continuación, selecciona **Sí** para confirmar que quieres dar por concluido el laboratorio.
