@@ -1,0 +1,20 @@
+# Introducción a AWS Lab Learner
+
+## ¿Qué es AWS Lab Learner?
+AWS Lab Learner es una plataforma educativa que proporciona laboratorios prácticos para aprender a utilizar diversos servicios de AWS. Estos laboratorios permiten a los usuarios experimentar con servicios de AWS en un entorno controlado, facilitando el aprendizaje a través de la práctica.
+
+## Beneficios de AWS Lab Learner
+- **Aprendizaje Práctico**: Permite a los usuarios practicar con servicios de AWS en un entorno seguro.
+- **Accesibilidad**: Disponible en línea, facilitando el acceso desde cualquier lugar.
+- **Actualización Constante**: Los laboratorios se actualizan regularmente para reflejar los cambios en los servicios de AWS.
+
+## Cómo Empezar
+Para empezar con AWS Lab Learner, sigue estos pasos:
+1. **Registro**: Regístrate en AWS Lab Learner utilizando tu cuenta de AWS.
+2. **Seleccionar Laboratorios**: Explora y selecciona los laboratorios disponibles.
+3. **Ejecutar Laboratorios**: Sigue las instrucciones proporcionadas en cada laboratorio para completar las tareas.
+
+## Ejemplos de Laboratorios Disponibles
+- **Introducción a Amazon S3**: Aprende a crear y gestionar buckets en Amazon S3.
+- **Uso de Amazon EC2**: Experimenta con la creación y gestión de instancias EC2.
+- **Configuración de Amazon RDS**: Aprende a configurar y administrar bases de datos relacionales en Amazon RDS.
